@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - wall
+  - Enemy
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -11,13 +14,13 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - WhatIsGround
+  - WhatIsWall
+  - WhatIsLadder
+  - WhatIsPlayer
+  - WhatIsEnemy
+  - podtProcessing
+  - WhatIsBullet
   - 
   - 
   - 
